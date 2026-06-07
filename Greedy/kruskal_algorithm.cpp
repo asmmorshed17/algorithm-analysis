@@ -102,8 +102,7 @@ int main()
         return 0;
     }
 
-    cout << "\nTotal MST Cost = "
-         << mstCost << '\n';
+    cout << "\nTotal MST Cost = " << mstCost << '\n';
 
     return 0;
 }
